@@ -68,7 +68,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnite.1.6.exe` as **Administrator**.
+   Run `fortnite.1.7.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
